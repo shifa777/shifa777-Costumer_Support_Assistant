@@ -1,0 +1,31 @@
+# Core RAG Framework
+langchain
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Ollama Integration
+ollama
+
+# Embeddings with GPU Support
+sentence-transformers
+transformers
+
+# UI Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+
+# Testing (optional)
+pytest
+pytest-asyncio
+
