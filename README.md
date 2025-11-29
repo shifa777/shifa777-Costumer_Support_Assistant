@@ -44,6 +44,11 @@ Rooman SupportAssistant is an intelligent chatbot designed to handle frequently 
 - Conversation history with metadata
 
 ---
+<<<<<<< HEAD
+=======
+architecture = <img width="1052" height="716" alt="Screenshot 2025-11-28 173036" src="https://github.com/user-attachments/assets/4a5537e7-9712-4455-b65d-d1cfab1df97e" />
+
+>>>>>>> ee24083f0f017786a6e063269ae7788be3e80449
 
 ## ⚠️ Limitations
 
@@ -351,8 +356,13 @@ curl http://localhost:11434/api/tags
 
 ### Import Errors
 ```bash
+<<<<<<< HEAD
 # Activate virtual environment
 .\venv\Scripts\activate
+=======
+# Must Activate virtual environment
+.\venv\Scripts\activate 
+>>>>>>> ee24083f0f017786a6e063269ae7788be3e80449
 
 # Reinstall all dependencies
 pip install -r requirements.txt --force-reinstall
@@ -369,3 +379,7 @@ streamlit cache clear
 # Run with verbose logging
 streamlit run app.py --logger.level=debug
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> ee24083f0f017786a6e063269ae7788be3e80449
