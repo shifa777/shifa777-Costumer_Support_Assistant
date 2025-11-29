@@ -106,7 +106,7 @@ python-dotenv>=1.0.0
 ```
 
 ---
-
+hosted in Streamlit cloud : https://shifa777-costumersupportassistant-karcaiquxbjpaznq2zs7fe.streamlit.app/
 ## 🚀 Setup & Run Instructions
 
 ### Prerequisites
