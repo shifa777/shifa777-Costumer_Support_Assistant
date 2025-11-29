@@ -353,8 +353,8 @@ curl http://localhost:11434/api/tags
 
 ### Import Errors
 ```bash
-# Activate virtual environment
-.\venv\Scripts\activate
+# Must Activate virtual environment
+.\venv\Scripts\activate 
 
 # Reinstall all dependencies
 pip install -r requirements.txt --force-reinstall
@@ -372,29 +372,3 @@ streamlit cache clear
 streamlit run app.py --logger.level=debug
 ```
 
----
-
-## 📄 License
-
-This project is proprietary software developed for Rooman Technologies.
-
----
-
-## 👥 Contributors
-
-- **Developer**: Imran
-- **Organization**: Rooman Technologies
-- **Contact**: online@rooman.net | 8069451000
-
----
-
-## 📞 Support
-
-For issues or questions:
-- **Email**: online@rooman.net
-- **Phone**: 8069451000
-- **Address**: #30, 12th Main, 1st Stage Rajajinagar, Bengaluru - 560 010
-
----
-
-**Built with ❤️ for better student support at Rooman Technologies**
